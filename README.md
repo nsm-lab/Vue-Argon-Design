@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/vue-argon-design-system">Vue Argon Design System</a></h1>
 
 <p><img src="https://s3.amazonaws.com/creativetim_bucket/products/92/original/opt_argon_vue_thumbnail.jpg?1534236902" alt="Product Gif" /></p>
@@ -198,3 +199,7 @@
   <li>Google+: <a href="https://plus.google.com/+CreativetimPage">https://plus.google.com/+CreativetimPage</a></li>
   <li>Instagram: <a href="https://www.instagram.com/CreativeTimOfficial">https://www.instagram.com/CreativeTimOfficial</a></li>
 </ul>
+=======
+# Vue-Argon-Design
+DESIGN SYSTEM FOR BOOTSTRAP 4 AND VUE.JS
+>>>>>>> 9ba0e715c694d10b40bc99ba8f782e880031d9fe
